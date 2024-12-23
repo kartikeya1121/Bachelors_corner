@@ -1,0 +1,131 @@
+#body{
+    background-color: rgb(245, 235, 222);
+}
+#A1{
+   height: 435px;
+   width: 100%;
+   background-image: url(/food-4k1.jpg);
+   color: antiquewhite;
+   font-size: 40px;
+   font-style: impact;
+
+}
+a{
+    margin-right: 200px;
+}
+#link1{
+    padding-left: 150px;
+    color: rgb(132, 169, 230);
+    font-size: 1rem;
+}
+#link2{
+    padding-left: 150px;
+    color: rgb(132, 169, 230);
+    font-size: 1rem;
+}
+button{
+    margin-left: 1350px;
+}
+#A2{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    font-style: courier;
+    font-size: 5rem;
+    color: azure;
+    text-align: center;
+    text-shadow: 100cap;
+    color: black;
+    
+}
+#a21{
+    height: 600px;
+    width: 350px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-image: url(/about.jpg);
+    background-size: cover;
+    border-radius: 10%;
+    padding-top: 40px;
+    color: azure;
+    font-size: 3rem;
+
+}
+#a21:hover{
+    box-shadow: 15px 10px 5px rgb(123, 118, 118);
+}
+#a22:hover{
+    box-shadow: 15px 10px 5px rgb(123, 118, 118);
+}
+#a23:hover{
+    box-shadow: 15px 10px 5px rgb(123, 118, 118);
+}
+#a24:hover{
+    box-shadow: 15px 10px 5px rgb(123, 118, 118);
+}
+#a22{
+    height: 600px;
+    width: 350px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-image: url(/menu.jpg);
+    background-size: cover;
+    border-radius: 10%;
+    padding-top: 40px;
+
+
+}
+#a23{
+    height: 600px;
+    width: 350px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-image: url(/resevation.webp);
+    background-size: cover;
+    border-radius: 10%;
+    font-size: 3rem;
+    padding-top: 60px;
+    color: azure;
+
+
+}
+#a24{
+    height: 600px;
+    width: 350px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+    background-image: url(/order.jpg);
+    background-size: cover;
+    border-radius: 10%;
+    padding-top: 40px;
+}
+#A3{
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-image: url(/quotes.avif);
+}
+#A4{
+    height: 400px;
+    width: 96%;
+    margin-top: 10px;
+    border: 1px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    color: rgb(247, 247, 250);
+    background-color: rgb(95, 90, 90);
+    padding-left: 50px;
+    padding-top: 50px;
+    display: flex;
+}
+#a42{
+    margin-left: 600px;
+}
+

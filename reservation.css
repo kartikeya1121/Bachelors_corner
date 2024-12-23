@@ -1,0 +1,99 @@
+#head{
+    height:  300px;
+    width: 100%;
+    background-image: url(/resevation.webp);
+    text-align: center;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+    text-shadow: 2px 4px black;
+    padding-top: 50px;
+
+}
+#body{
+    height: 1600px;
+    width: 100%;
+    background-color: rgb(185, 104, 33);
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    color: antiquewhite;
+    font-size: 1.55rem ;
+}
+#b1:hover{
+    background-color: rgb(15, 15, 119);
+    color:azure;
+    box-shadow: inset;
+}
+#b2:hover{
+    background-color: rgb(15, 15, 119);
+    color:azure;
+    box-shadow: inset;
+}
+#b3:hover{
+    background-color: rgb(15, 15, 119);
+    color:azure;
+    box-shadow: inset;
+}
+#b4:hover{
+    background-color: rgb(15, 15, 119);
+    color:azure;
+    box-shadow: inset;
+}
+#b1{
+    margin-top: 30px;
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 7%;
+    box-shadow: 3px 5px black;
+    background-color: rgb(187, 177, 176);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px rgb(60, 60, 60);
+    padding-top: 30px;
+    font-size: 3rem;
+}
+#b2{
+    margin-top: 30px;
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 7%;
+    box-shadow: 3px 5px black;
+    background-color: rgb(176, 187, 187);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px rgb(60, 60, 60);
+    padding-top: 30px;
+    font-size: 3rem;
+}
+#b3{
+    margin-top: 30px;
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 7%;
+    box-shadow: 3px 5px black;
+    background-color: rgb(176, 187, 187);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px rgb(60, 60, 60);
+    padding-top: 30px;
+    font-size: 3rem;
+}
+#b4{
+    margin-top: 30px;
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 7%;
+    box-shadow: 3px 5px black;
+    background-color: rgb(176, 187, 187);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px rgb(60, 60, 60);
+    padding-top: 30px;
+    font-size: 3rem;
+}
